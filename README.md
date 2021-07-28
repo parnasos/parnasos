@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Laura, welcome!</h1>
-<h3 align="center">A curious and creative frontend developer from Madrid</h3>
+<h1 align="left">Hi 👋, I'm Laura,</h1>
+<h3 align="left">A curious and creative frontend developer from Madrid,  welcome!</h3>
+After a long career in the world of social entrepreneurship, training and sustainable design, I decided to broaden my sights and discover the horizons of the IT sector.
+
 
 - 🔭 I’m currently working on [my portfolio to keep] discovering and failing ;)
 
@@ -11,6 +13,85 @@
 
 - 📫 How to reach me **lauragraizer@gmail.com**
 
+### 📚 Knowledge...
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+##### Programming 
+
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+
+<img align="left" alt="Gulp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
+
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<br>
+<br>
+
+
+
+##### Design
+
+<img align="left" alt="AutoCad" width="50px" src="https://1000marcas.net/wp-content/uploads/2020/01/AutoCAD-Logo.png" />
+
+<img align="left" alt="Indesign" width="35px" src="https://thinkvox.com.mx/wp-content/uploads/2020/08/Logo-adobe-indesign.png" />
+
+<img align="left" alt="Illustrator" width="27px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" />
+
+<img align="left" alt="Photoshop" width="65px" src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" />
+
+<img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" />
+
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="25"/> 
+
+
+
+<br>
+<br>
+
+
+##### Tools
+
+<img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+
+<img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+
+<img align="left" alt="Zeplin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" />
+
+<img align="left" alt="Trello" width="35px" src="https://img.icons8.com/color/452/trello.png" />
+
+<img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
+
+
+<br>
+<br>
+
+
+---
+
+### 💬 Contact:
+
+You can contact me at nurahi10@gmail.com
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nur-ahissami-1a7b24157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur ahissami" height="20" width="40" /> Nur Ahissami</a>
+
+<a href="https://www.instagram.com/nurahissami.design/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurahissami_design" height="20" width="40" /> @nurahissami.design</a>
+</p>
+
+
+
+
