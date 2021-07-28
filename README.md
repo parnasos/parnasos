@@ -11,7 +11,7 @@ After a long career in the world of social entrepreneurship, training and sustai
 
 - 🤝 I’m looking for help with **my previous career path**
 
-- 📫 How to reach me **lauragraizer@gmail.com**
+
 
 ### 📚 IT Skills...
 
@@ -68,9 +68,11 @@ After a long career in the world of social entrepreneurship, training and sustai
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
 
 
+
+
 ### 💬 Contact:
 
-You can contact me at lauragraizer@gmail.com
+📫 How to reach me **lauragraizer@gmail.com**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/laura-graizer-73236743//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura graizer" height="20" width="40" />Laura Graizer</a>
