@@ -13,7 +13,7 @@ After a long career in the world of social entrepreneurship, training and sustai
 
 - 📫 How to reach me **lauragraizer@gmail.com**
 
-### 📚 Knowledge...
+### 📚 IT Skills...
 
 ##### Programming 
 
@@ -43,19 +43,11 @@ After a long career in the world of social entrepreneurship, training and sustai
 
 ##### Design
 
-<img align="left" alt="AutoCad" width="50px" src="https://1000marcas.net/wp-content/uploads/2020/01/AutoCAD-Logo.png" />
-
 <img align="left" alt="Indesign" width="35px" src="https://thinkvox.com.mx/wp-content/uploads/2020/08/Logo-adobe-indesign.png" />
 
 <img align="left" alt="Illustrator" width="27px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" />
 
 <img align="left" alt="Photoshop" width="65px" src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" />
-
-<img align="left" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" />
-
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="25"/> 
-
-
 
 <br>
 <br>
@@ -81,16 +73,6 @@ After a long career in the world of social entrepreneurship, training and sustai
 
 
 ---
-
-### 💬 Contact:
-
-You can contact me at nurahi10@gmail.com
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nur-ahissami-1a7b24157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur ahissami" height="20" width="40" /> Nur Ahissami</a>
-
-<a href="https://www.instagram.com/nurahissami.design/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurahissami_design" height="20" width="40" /> @nurahissami.design</a>
-</p>
 
 
 
