@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Laura,</h1>
+<h1 align="left">Hi 👋 I'm Laura,</h1>
 <h3 align="left">A curious and creative frontend developer from Madrid,  welcome!</h3>
 After a long career in the world of social entrepreneurship, training and sustainable design, I decided to broaden my sights and discover the horizons of the IT sector.
 
