@@ -3,7 +3,7 @@
 After a long career in the world of social entrepreneurship, training and sustainable design, I decided to broaden my sights and discover the horizons of the IT sector.
 
 
-- 🔭 I’m currently working on [my portfolio to keep] discovering and failing ;)
+- 🔭 I’m currently working on my portfolio discovering and failing ;)
 
 - 🌱 I’m currently learning **Agile and Scrum methodology and gambling with JS and React**
 
